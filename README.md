@@ -6,6 +6,7 @@ Passwordgen est un programme en Go permet à l'utilisateur de générer un mot d
 Le mot de passe généré est affiché à l'écran et enregistré dans un fichier.
 
 Utilisation
+
 #Téléchargez ou clonez le répertoire
 
 #Ouvrez un terminal et rendez-vous dans le répertoire du projet
