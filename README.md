@@ -15,4 +15,5 @@ Utilisation
 
 #Entrez la longueur souhaitée du mot de passe lorsque demandé
 
-#Le mot de passe généré sera affiché à l'écran et enregistré dans un fichier nommé password.txt
+#Le mot de passe généré sera affiché à l'écran et enregistré 
+dans un fichier nommé password.txt
