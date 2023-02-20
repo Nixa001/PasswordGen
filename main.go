@@ -20,7 +20,7 @@ func main() {
 		fmt.Println("Longueur du mot de passe non valide. Utilisation de 8 caractères par défaut.")
 		n = 8
 	}
-	characters := "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!?@#-_=&"
+	characters := "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!?@#-_=&;:><"
 	rand.Seed(time.Now().UnixNano())
 	password := make([]byte, n)
 	for i := range password {
