@@ -11,7 +11,7 @@ Utilisation
 
 #Ouvrez un terminal et rendez-vous dans le répertoire du projet
 
-#Exécutez go run main.go
+#Exécuter avec la commande :go run main.go
 
 #Entrez la longueur souhaitée du mot de passe lorsque demandé
 
